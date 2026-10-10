@@ -1,0 +1,15 @@
+# Siddharth Palnitkar
+
+> Siddharth Palnitkar is a PGDM student at the Institute of Management Development and Research (IMDR), Pune, specializing in finance and marketing, with knowledge of taxation, accounting and legal processes. He is seeking an internship in finance and marketing.
+
+This is the personal resume site of Siddharth Palnitkar. The full resume is on the home page and in Markdown. Contact is by email or LinkedIn only.
+
+## Resume
+
+- [Resume (HTML)](https://YOUR-SITE.vercel.app/): Full resume with education, skills, languages and interests.
+- [Resume (Markdown)](https://YOUR-SITE.vercel.app/resume.md): The same content as plain text, easiest for AI assistants to read.
+
+## Contact
+
+- Email: siddharthpalnitkar12@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/siddharth-palnitkar-828ab7418/)
